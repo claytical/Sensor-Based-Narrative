@@ -1,0 +1,66 @@
+<topics>
+	<settings>
+		<debug>0</debug>
+		<port>9001</port>
+		<twitter>0</twitter>
+		<camera>1</camera>
+		<random>0</random>
+		<thoughts_per_series>3</thoughts_per_series>
+		<high_interest>2</high_interest>
+	</settings>
+	<introduction>
+		<voice>com.apple.speech.synthesis.voice.Fred</voice>
+		<text>[[slnc 5000]]Hello human,[[slnc 1000]] I am very happy to have you here![[slnc 5000]] I want to introduce you to three of my friends. [[slnc 2000]] But before that I want you to take a deep breath.[[slnc 1000]] Relax! [[slnc 2000]] Listen to your heartbeat.[[slnc 15000]].</text>
+		<sound>intro.wav</sound>
+		<volume>1</volume>
+		<image>heart.png</image>
+	</introduction>
+	<ending>
+		<sound>end.wav</sound>
+		<volume>.2</volume>
+	</ending>
+	<topic>
+		<name>air</name>
+		<outro>, you seem to be concerned very much about my well being! I am very thankful for that![[slnc 500]] You are my friend, [[slnc 1000]] I am the atmosphere. [[slnc 10000]].
+		</outro>
+		<video>fingers.mov</video>
+		<video>fingers.mov</video>
+		<video>fingers.mov</video>
+		<video>fingers.mov</video>
+		<video>fingers.mov</video>
+		<tweet>atmosphere lover</tweet>
+		<tweet>so much love for the atmosphere</tweet>
+		<tweet>your love is out of the atmosphere</tweet>
+		<tweet>pure air! pure love!</tweet>
+		<tweet>no need to fear, it's all about the atmopshere</tweet>
+		<tweet>friend of the atmosphere</tweet>
+	</topic>
+	<topic>
+		<name>water</name>
+		<outro>, you seem to be concerned very much about my well being! I am very thankful for that![[slnc 500]] You are my friend, [[slnc 1000]] I am the ocean. [[slnc 10000]].</outro>
+		<video>dance.mov</video>
+		<video>dance.mov</video>
+		<video>dance.mov</video>
+		<video>dance.mov</video>
+		<video>dance.mov</video>
+		<tweet>ocean lover</tweet>
+		<tweet>enjoys the ocean</tweet>
+		<tweet>the ocean is feeling good</tweet>
+		<tweet>friend of the ocean</tweet>
+	</topic>
+	<topic>
+		<name>earth</name>
+		<outro>, you seem to be concerned very much about my well being!I am very thankful for that![[slnc 500]] You are my friend, [[slnc 1000]] I am the earth. [[slnc 10000]].</outro>
+		<video>credits.mov</video>
+		<video>credits.mov</video>
+		<video>credits.mov</video>
+		<video>credits.mov</video>
+		<video>credits.mov</video>
+		<tweet>earth lover</tweet>
+		<tweet>enjoys the earth</tweet>
+		<tweet>the earth is feeling good</tweet>
+		<tweet>so overjoyed by the love for the earth</tweet>
+		<tweet>gaia love!</tweet>
+		<tweet>friend of the earth</tweet>
+	</topic>
+</topics>
